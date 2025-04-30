@@ -30,8 +30,8 @@ Control your mouse using hand gestures detected through a webcam! This project l
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/mouse-gesture-control.git
-cd mouse-gesture-control
+git clone https://github.com/sanskarsaket/mouse_gesture_control.git
+cd mouse_gesture_control
 
 # Install dependencies
 pip install -r requirements.txt
